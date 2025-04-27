@@ -1,2 +1,2 @@
 # IT-Training
-This includes all the Python notebooks of IT training sessions and assignments.
+This repository includes all the documentation and Python notebooks of IT training sessions and assignments.
